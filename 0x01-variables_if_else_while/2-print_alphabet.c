@@ -1,5 +1,8 @@
 #include <stdio.h>
-
+/**
+ * the
+ * dcoumentation
+ */
 int main(void)
 {
 	char alp[26] = "abcdefghijklmnopqrstuvwxyz";
